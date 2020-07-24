@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-demo URL:https://KoichiSugi.github.io/react-overview-tutorial
+Demo URL:https://KoichiSugi.github.io/react-overview-tutorial
 
+This tutorial is based on this tutorial page:https://www.taniarascia.com/getting-started-with-react/
+Source Code of author of article:https://github.com/taniarascia/react-tutorial
 
 ## Available Scripts
 
